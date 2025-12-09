@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Demo Chatbot – Alivio de cólicos menstruales</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div class="page">
+    <div class="card">
+      <header class="card-header">
+        <div class="brand">
+          <div class="brand-logo">💊</div>
+          <div>
+            <div class="brand-name">Asistente de Marca</div>
+            <div class="brand-subtitle">Demo – Alivio de cólicos menstruales</div>
+          </div>
+        </div>
+        <div class="badge">Demo</div>
+      </header>
+
+      <main class="card-body">
+        <div id="messages" class="messages"></div>
+
+        <div class="quick-questions">
+          <span>Preguntas rápidas:</span>
+          <button class="chip" data-text="¿Para qué sirve este medicamento?">
+            ¿Para qué sirve?
+          </button>
+          <button class="chip" data-text="¿Cada cuánto tiempo puedo tomarlo?">
+            Frecuencia de uso
+          </button>
+          <button class="chip" data-text="¿Lo puedo tomar si estoy embarazada?">
+            Embarazo
+          </button>
+          <button class="chip" data-text="¿Lo puedo usar si tengo gastritis?">
+            Gastritis
+          </button>
+        </div>
+      </main>
+
+      <footer class="card-footer">
+        <form id="chat-form" class="chat-form">
+          <input
+            id="user-input"
+            type="text"
+            placeholder="Escribe tu pregunta..."
+            autocomplete="off"
+          />
+          <button type="submit" id="send-button">
+            Enviar
+          </button>
+        </form>
+        <div id="status" class="status"></div>
+        <div class="disclaimer">
+          Este chatbot es una <strong>demo</strong> y no sustituye la orientación
+          de un profesional de la salud.
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <script src="/js/chat.js"></script>
+</body>
+</html>

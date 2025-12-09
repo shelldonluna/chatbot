@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "question": "¿Para qué sirve este medicamento?",
+    "answer": "Este medicamento está formulado para aliviar los cólicos menstruales, así como molestias asociadas como dolor lumbar, inflamación y malestar general durante el periodo.",
+    "tags": ["uso", "indicaciones", "dolor", "cólicos"]
+  },
+  {
+    "id": 2,
+    "question": "¿Cada cuánto tiempo puedo tomarlo?",
+    "answer": "Generalmente se recomienda tomarlo cada 6 u 8 horas según la intensidad del dolor, sin exceder la dosis diaria indicada en el empaque o por un profesional de la salud.",
+    "tags": ["dosis", "frecuencia", "cada cuánto"]
+  },
+  {
+    "id": 3,
+    "question": "¿Cuánto tarda en hacer efecto?",
+    "answer": "Normalmente comienza a aliviar el dolor entre 20 y 40 minutos después de la ingesta, aunque puede variar según cada persona.",
+    "tags": ["inicio", "efecto", "tiempo"]
+  },
+  {
+    "id": 4,
+    "question": "¿Tiene efectos secundarios?",
+    "answer": "Algunas personas pueden experimentar malestar estomacal, somnolencia o náuseas. Si los síntomas persisten o son fuertes, se recomienda suspender su uso y consultar a un médico.",
+    "tags": ["efectos secundarios", "reacciones", "seguridad"]
+  },
+  {
+    "id": 5,
+    "question": "¿Lo puedo tomar si estoy embarazada o en lactancia?",
+    "answer": "No se recomienda su uso sin la valoración previa de un profesional de la salud, ya que algunas sustancias podrían no ser adecuadas durante el embarazo o la lactancia.",
+    "tags": ["embarazo", "lactancia", "seguridad"]
+  },
+  {
+    "id": 6,
+    "question": "¿Se puede tomar junto con otros medicamentos?",
+    "answer": "Depende del tipo de medicamento. Analgésicos, antiinflamatorios o anticoagulantes podrían interactuar, por lo que es mejor consultar antes con un profesional de la salud.",
+    "tags": ["interacciones", "otros medicamentos", "compatibilidad"]
+  },
+  {
+    "id": 7,
+    "question": "¿Lo puedo usar si tengo gastritis?",
+    "answer": "Algunos componentes pueden irritar el estómago. Es recomendable tomarlo con alimentos y consultar si tienes antecedentes de gastritis o problemas gastrointestinales.",
+    "tags": ["gastritis", "estómago", "gastrointestinal"]
+  },
+  {
+    "id": 8,
+    "question": "¿A partir de qué edad se puede tomar?",
+    "answer": "Generalmente está indicado para adolescentes y adultos. La edad mínima depende de la formulación específica del producto.",
+    "tags": ["edad", "adolescentes", "adultos"]
+  },
+  {
+    "id": 9,
+    "question": "¿Es seguro usarlo en cada periodo menstrual?",
+    "answer": "Sí, siempre que se respete la dosis recomendada y no haya contraindicaciones personales. Su uso ocasional durante los ciclos menstruales es común.",
+    "tags": ["seguridad", "frecuencia", "cada periodo"]
+  },
+  {
+    "id": 10,
+    "question": "¿Qué hago si el dolor no desaparece después de tomarlo?",
+    "answer": "Si después de algunas horas el dolor no mejora, o es más fuerte de lo habitual, se recomienda buscar valoración médica, ya que podría tratarse de otra condición.",
+    "tags": ["dolor fuerte", "no mejora", "cuándo ir al médico"]
+  }
+]
