@@ -1,0 +1,192 @@
+[
+  {
+    "id": "ifa-postday-demo",
+    "brand": "IFA Celtics",
+    "product": "Post Day",
+    "category": "Anticoncepción de emergencia",
+    "active_ingredient": "Levonorgestrel",
+    "presentations": ["Tableta 1.5 mg"],
+    "approved_info": {
+      "indications": "Anticoncepción de emergencia utilizada para reducir el riesgo de embarazo después de una relación sexual sin protección o una falla del método anticonceptivo habitual.",
+      "dosage": {
+        "text": "Tomar una tableta lo antes posible después de la relación sexual sin protección, idealmente dentro de las primeras 12 horas y hasta un máximo de 72 horas.",
+        "window": "Hasta 72 horas",
+        "frequency": "Dosis única",
+        "notes": "Mientras antes se administre, mayor es su eficacia."
+      },
+      "contraindications": "Hipersensibilidad al levonorgestrel, embarazo confirmado, sangrado vaginal de causa no diagnosticada.",
+      "warnings": "No sustituye a los métodos anticonceptivos regulares. Su uso frecuente puede ocasionar alteraciones menstruales. No protege contra infecciones de transmisión sexual.",
+      "adverse_effects": "Náusea, vómito, mareo, dolor abdominal, cefalea, fatiga y cambios temporales en el ciclo menstrual."
+    },
+    "key_points": [
+      "Uso exclusivo para situaciones de emergencia.",
+      "No debe utilizarse como método anticonceptivo regular.",
+      "Puede adelantar o retrasar el siguiente periodo."
+    ],
+    "extended_guidance": {
+      "vomiting": "Si se presenta vómito dentro de las primeras 2 horas posteriores a la toma, la eficacia puede verse reducida y suele recomendarse repetir la dosis.",
+      "menstrual_changes": "Es común que el siguiente periodo se adelante o se retrase algunos días; si el retraso es mayor a una semana, se sugiere realizar una prueba de embarazo.",
+      "repeat_use": "El uso repetido en un mismo ciclo no es ideal y puede incrementar la frecuencia de efectos secundarios."
+    },
+    "faqs": [
+      {
+        "q": "¿Qué tan efectiva es Post Day?",
+        "a": "Su eficacia es mayor cuando se toma lo antes posible después de la relación sin protección. Con el paso de las horas, esta eficacia puede disminuir."
+      },
+      {
+        "q": "¿Puedo usarla más de una vez?",
+        "a": "Puede utilizarse más de una vez en situaciones de emergencia, aunque no se recomienda como método anticonceptivo habitual."
+      }
+    ],
+    "demo_note": "Información enriquecida para fines demostrativos. El laboratorio proporcionará la información final aprobada."
+  },
+
+ {
+  "id": "ifa-ariadne-demo",
+  "brand": "IFA Celtics",
+  "product": "Ariadne",
+  "aliases": [
+    "Ariadne 20/400",
+    "Ariadne tabletas",
+    "Butilbromuro de hioscina ibuprofeno",
+    "hioscina ibuprofeno"
+  ],
+  "category": "Antiespasmódico + analgésico (cólicos)",
+  "active_ingredient": "Butilbromuro de hioscina 20 mg + Ibuprofeno 400 mg",
+  "presentations": ["Tableta 20 mg/400 mg"],
+  "approved_info": {
+    "indications": "Medicamento antiespasmódico y analgésico indicado para el alivio de cólicos menstruales, biliares y urogenitales.",
+    "dosage": {
+      "text": "Vía oral. En mayores de 12 años, generalmente 1 tableta cada 8 horas. No exceder 5 días de uso continuo.",
+      "route": "Oral",
+      "age": "Mayores de 12 años",
+      "frequency": "Cada 8 horas",
+      "max_duration_days": 5
+    },
+    "contraindications": "Úlcera o sangrado gastrointestinal, asma (especialmente asociada a AINEs), embarazo, insuficiencia renal o hepática, e hipersensibilidad a los componentes.",
+    "warnings": "Usar con precaución en personas con antecedentes gastrointestinales. Evitar combinar con otros antiinflamatorios/analgésicos similares sin indicación. Suspender y valorar si hay signos de sangrado gastrointestinal, reacción alérgica o dificultad respiratoria.",
+    "adverse_effects": "Molestias gastrointestinales (acidez, náusea), mareo, somnolencia o irritación gástrica. En casos menos frecuentes: reacciones alérgicas o empeoramiento de síntomas respiratorios en personas sensibles a AINEs."
+  },
+  "key_points": [
+    "Combina acción antiespasmódica (espasmo) y analgésica/antiinflamatoria (dolor).",
+    "Útil en cólicos menstruales, biliares y urogenitales.",
+    "Esquema típico: 1 tableta cada 8 horas en >12 años, máximo 5 días (DEMO).",
+    "Evitar en úlcera/sangrado GI, asma sensible a AINEs, embarazo o insuficiencia renal/hepática."
+  ],
+  "extended_guidance": {
+    "how_it_works": "En términos generales, el butilbromuro de hioscina ayuda a disminuir espasmos musculares, mientras que el ibuprofeno contribuye a reducir dolor e inflamación.",
+    "stomach_care": "Para reducir malestar gástrico, suele recomendarse tomarlo con alimentos y evitar alcohol (siempre que el esquema de uso lo permita).",
+    "when_to_seek_help": "Si el dolor es muy intenso, dura más de 5 días, hay fiebre, desmayo, sangrado anormal o dificultad respiratoria, se sugiere valoración médica.",
+    "drug_combinations": "Evitar duplicar antiinflamatorios (p. ej., ibuprofeno/naproxeno/diclofenaco) sin indicación; esto puede aumentar riesgo gastrointestinal."
+  },
+  "common_intents": {
+    "menstrual_cramps": ["cólicos menstruales", "dolor menstrual", "dolor en regla", "me duele la panza en mi periodo"],
+    "biliary_colic": ["cólico biliar", "dolor en el lado derecho", "piedras en la vesícula"],
+    "urogenital_spasm": ["cólico urogenital", "dolor tipo cólico al orinar", "espasmo urinario"],
+    "dose_and_schedule": ["dosis", "cada cuánto", "cuántas al día", "por cuántos días"],
+    "contraindications": ["tengo gastritis/úlcera", "tengo asma", "estoy embarazada", "riñón", "hígado"],
+    "side_effects": ["efectos secundarios", "me cayó mal", "me dio náusea", "me mareé"]
+  },
+  "faqs": [
+    {
+      "q": "¿Para qué sirve Ariadne?",
+      "a": "Está indicado para aliviar cólicos menstruales, biliares y urogenitales, combinando efecto antiespasmódico y analgésico."
+    },
+    {
+      "q": "¿Cómo se toma Ariadne?",
+      "a": "En mayores de 12 años, suele usarse 1 tableta cada 8 horas por vía oral, sin exceder 5 días de uso continuo."
+    },
+    {
+      "q": "¿Cuándo no debería usarlo?",
+      "a": "Se contraindica en úlcera o sangrado gastrointestinal, asma sensible a antiinflamatorios, embarazo o insuficiencia renal/hepática, entre otros."
+    }
+  ],
+  "escalation_rules": [
+    "Si hay dificultad respiratoria, ronchas o hinchazón: sugerir atención inmediata (posible alergia).",
+    "Si hay heces negras, vómito con sangre o dolor abdominal intenso: sugerir atención médica.",
+    "Si el dolor persiste más de 5 días o empeora: sugerir valoración.",
+    "Si la persona es menor de 12 años, está embarazada o tiene insuficiencia renal/hepática: sugerir consulta antes de usar."
+  ],
+  "demo_note": "Contenido para demostración. La información final debe validarse con el material oficial del laboratorio."
+},
+
+  {
+    "id": "ifa-gynomunal-demo",
+    "brand": "IFA Celtics",
+    "product": "Gynomunal",
+    "category": "Salud íntima femenina",
+    "active_ingredient": "Complejo hidratante vaginal",
+    "presentations": ["Gel vaginal"],
+    "approved_info": {
+      "indications": "Alivio de molestias asociadas a resequedad vaginal, como ardor, irritación, comezón o incomodidad durante las relaciones sexuales.",
+      "dosage": {
+        "text": "Aplicar por vía vaginal, preferentemente por la noche, siguiendo el esquema indicado.",
+        "route": "Vaginal"
+      },
+      "contraindications": "Hipersensibilidad a alguno de los componentes.",
+      "warnings": "Uso vaginal únicamente. Suspender su uso si se presenta irritación intensa.",
+      "adverse_effects": "Sensación local de humedad, flujo transitorio o irritación leve."
+    },
+    "key_points": [
+      "Producto de uso local.",
+      "No es antibiótico ni antifúngico.",
+      "Ayuda a mejorar el confort vaginal."
+    ],
+    "extended_guidance": {
+      "during_menses": "En muchos casos se sugiere pausar el tratamiento durante la menstruación y retomarlo posteriormente.",
+      "sexual_activity": "Puede contribuir a disminuir molestias durante las relaciones sexuales asociadas a resequedad.",
+      "persistence": "Si las molestias persisten, se recomienda valoración médica."
+    },
+    "faqs": [
+      {
+        "q": "¿Es un antibiótico?",
+        "a": "No, es un producto diseñado para hidratar y aliviar molestias locales."
+      },
+      {
+        "q": "¿Cuánto tiempo se puede usar?",
+        "a": "Puede utilizarse durante el periodo indicado; el esquema exacto depende de la recomendación del producto."
+      }
+    ],
+    "demo_note": "Información enriquecida para ilustrar capacidades del chatbot."
+  },
+
+  {
+    "id": "ifa-nitesom-demo",
+    "brand": "IFA Celtics",
+    "product": "Nitesom",
+    "category": "Sueño y bienestar",
+    "active_ingredient": "Melatonina",
+    "presentations": ["Tabletas", "Cápsulas"],
+    "approved_info": {
+      "indications": "Apoyo para conciliar el sueño y mejorar la calidad del descanso nocturno.",
+      "dosage": {
+        "text": "Tomar aproximadamente 30 a 60 minutos antes de dormir.",
+        "timing": "Previo al sueño"
+      },
+      "contraindications": "Hipersensibilidad a la melatonina.",
+      "warnings": "Puede causar somnolencia. Evitar combinar con alcohol o manejar maquinaria pesada.",
+      "adverse_effects": "Somnolencia, mareo, dolor de cabeza, sueños vívidos."
+    },
+    "key_points": [
+      "Favorece el inicio del sueño.",
+      "No es un sedante tradicional.",
+      "Útil como apoyo en higiene del sueño."
+    ],
+    "extended_guidance": {
+      "daily_use": "Puede utilizarse por periodos cortos; si el insomnio persiste, conviene evaluar la causa.",
+      "next_day_effect": "En algunas personas puede causar somnolencia matutina leve.",
+      "sleep_habits": "Se recomienda acompañar su uso con hábitos de sueño adecuados."
+    },
+    "faqs": [
+      {
+        "q": "¿Crea dependencia?",
+        "a": "No se considera adictiva cuando se usa de forma responsable."
+      },
+      {
+        "q": "¿Cuándo empiezo a notar efecto?",
+        "a": "Muchas personas refieren mejoría desde las primeras tomas."
+      }
+    ],
+    "demo_note": "Contenido ampliado con fines demostrativos."
+  }
+]
